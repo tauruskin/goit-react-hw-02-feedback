@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import SectionTitle from './SectionTitle.js';
-import { render } from '@testing-library/react';
 
 class App extends Component {
   state = {
